@@ -1,0 +1,1 @@
+head -6 DrawBtn017.js; echo "	if(btnColor026 === \"null\"){ setBtnColor026((btnColor026) => \"baseColor\"); }" tail -11 DrawBtn017.js
